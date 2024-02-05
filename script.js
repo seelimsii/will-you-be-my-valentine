@@ -1,4 +1,4 @@
-const noTexts = ['Pakka Nahi?', 'Dobara soch lo...', 'Once in a life time offer h... Dekh lo', "Pleeeease!!", "Samjha kro na", "Mai nahi manunga", ""]
+const noTexts = ['Pakka Nahi?', 'Dobara soch lo...', 'Once in a life time offer h... Dekh lo', "Pleeeease!!", "Samjha kro na", "Mai nahi manunga", "bhag"]
 let height = 50;
 let width = 100;
 let fontSize = 15;
